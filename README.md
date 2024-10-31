@@ -23,9 +23,3 @@ This project implements a system to detect fake news by comparing news articles 
 - **APIs**:
   - [News API](https://newsapi.org/register)
   - [NewsData.io API](https://newsdata.io/register)
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
